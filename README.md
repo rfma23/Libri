@@ -1,7 +1,7 @@
 # Libri
 26/04/2018 CDP IMPORTANTE
     
-    1) a pagina 71 la varianza dell'uniforme non è (a+b)^2/12 ma (a-b)^2/12 (o (b-a)^2/12 raccogliendo -1) 
+    1) a pagina 71 la varianza dell'uniforme non è [(a+b)^2]/12 ma [(a-b)^2]/12 (o [(b-a)^2]/12 raccogliendo -1) 
     
     2) a pagina 121 definizione 8.11 non dovrebbe essere E[X^2] ma E[X]
     
