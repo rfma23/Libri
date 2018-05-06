@@ -1,6 +1,5 @@
 # Libri
-07/05/2018 CDP Piccolo aggiornamento sull'area regressione, alcune cose restano in sospeso e verranno completate nei prossimi       
-               update.
+07/05/2018 CDP Piccolo aggiornamento sull'area regressione, alcune cose restano in sospeso e verranno completate nei prossimi    update.
 
 26/04/2018 CDP IMPORTANTE
     
