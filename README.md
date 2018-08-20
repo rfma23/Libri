@@ -9,7 +9,7 @@
     
 17/03/2018 CDP Piccoli errori risolti:
 
-    1) a pagina 10 non dev'esserci il coefficiente binomiale sulle disposizioni
+    1) a pagina 10 non deve esserci il coefficiente binomiale sulle disposizioni
     
     2) a pagina 30 a causa di un copia incolla il caso 3 risultava uguale al caso 2.
     
