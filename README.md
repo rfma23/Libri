@@ -1,6 +1,8 @@
 # Libri
-please use the new graphical interface for accessing the files: [rafaelmosca.tk](http://rfma23.github.io/documents.html)
+please use the new graphical interface for accessing the files: [rfma23.github.io](http://rfma23.github.io/documents.html)
 consider giving anonymous feedback if you find these notes useful
+
+26/11/2019 CDP Piccolo aggiornamento sulla somma di normali, non era chiarissimo dato che il file precedente era incompleto
 
 07/05/2018 CDP Piccolo aggiornamento sull'area regressione, alcune cose restano ancora in sospeso.
 
